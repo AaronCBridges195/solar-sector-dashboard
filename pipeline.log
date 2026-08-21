@@ -1,0 +1,396 @@
+2026-07-17 14:41:02,147 - INFO - FSLR: no new price rows to fetch
+2026-07-17 14:41:02,421 - INFO - ENPH: no new price rows to fetch
+2026-07-17 14:41:02,645 - INFO - SEDG: no new price rows to fetch
+2026-07-17 14:41:02,918 - INFO - RUN: no new price rows to fetch
+2026-07-17 14:41:03,248 - INFO - NEE: no new price rows to fetch
+2026-07-17 14:41:03,470 - INFO - ARRY: no new price rows to fetch
+2026-07-17 14:41:03,777 - INFO - SHLS: no new price rows to fetch
+2026-07-17 14:41:04,928 - INFO - FSLR: no new financial rows to fetch
+2026-07-17 14:41:05,927 - INFO - ENPH: no new financial rows to fetch
+2026-07-17 14:41:06,903 - INFO - SEDG: no new financial rows to fetch
+2026-07-17 14:41:07,874 - INFO - RUN: no new financial rows to fetch
+2026-07-17 14:41:08,929 - INFO - NEE: no new financial rows to fetch
+2026-07-17 14:41:09,871 - INFO - ARRY: no new financial rows to fetch
+2026-07-17 14:41:10,807 - INFO - SHLS: no new financial rows to fetch
+2026-07-17 14:44:38,615 - INFO - FSLR: no new price rows to fetch
+2026-07-17 14:44:39,872 - INFO - FAKETICKER123: no new price rows to fetch
+2026-07-17 14:44:41,074 - INFO - FSLR: no new financial rows to fetch
+2026-07-17 14:44:42,054 - INFO - ENPH: no new financial rows to fetch
+2026-07-17 14:44:43,028 - INFO - SEDG: no new financial rows to fetch
+2026-07-17 14:44:44,113 - INFO - RUN: no new financial rows to fetch
+2026-07-17 14:44:45,228 - INFO - NEE: no new financial rows to fetch
+2026-07-17 14:44:46,163 - INFO - ARRY: no new financial rows to fetch
+2026-07-17 14:44:47,056 - INFO - SHLS: no new financial rows to fetch
+2026-07-17 14:56:30,945 - INFO - FSLR: no new price rows to fetch
+2026-07-17 14:56:31,200 - INFO - ENPH: no new price rows to fetch
+2026-07-17 14:56:31,445 - INFO - SEDG: no new price rows to fetch
+2026-07-17 14:56:31,669 - INFO - RUN: no new price rows to fetch
+2026-07-17 14:56:32,030 - INFO - NEE: no new price rows to fetch
+2026-07-17 14:56:32,293 - INFO - ARRY: no new price rows to fetch
+2026-07-17 14:56:32,603 - INFO - SHLS: no new price rows to fetch
+2026-07-17 14:56:33,775 - INFO - FSLR: no new financial rows to fetch
+2026-07-17 14:56:34,858 - INFO - ENPH: no new financial rows to fetch
+2026-07-17 14:56:35,886 - INFO - SEDG: no new financial rows to fetch
+2026-07-17 14:56:36,878 - INFO - RUN: no new financial rows to fetch
+2026-07-17 14:56:37,905 - INFO - NEE: no new financial rows to fetch
+2026-07-17 14:56:38,853 - INFO - ARRY: no new financial rows to fetch
+2026-07-17 14:56:39,779 - INFO - SHLS: no new financial rows to fetch
+2026-07-17 14:57:15,320 - INFO - FSLR: no new price rows to fetch
+2026-07-17 14:57:16,455 - WARNING - FAKETICKER123: first-time fetch return 0 rows. Possible invalid ticker
+2026-07-17 14:57:17,562 - INFO - FSLR: no new financial rows to fetch
+2026-07-17 14:57:18,565 - INFO - ENPH: no new financial rows to fetch
+2026-07-17 14:57:19,566 - INFO - SEDG: no new financial rows to fetch
+2026-07-17 14:57:20,624 - INFO - RUN: no new financial rows to fetch
+2026-07-17 14:57:21,694 - INFO - NEE: no new financial rows to fetch
+2026-07-17 14:57:22,699 - INFO - ARRY: no new financial rows to fetch
+2026-07-17 14:57:23,777 - INFO - SHLS: no new financial rows to fetch
+2026-07-17 15:07:28,853 - INFO - FSLR: no new price rows to fetch
+2026-07-17 15:07:29,136 - INFO - ENPH: no new price rows to fetch
+2026-07-17 15:07:29,381 - INFO - SEDG: no new price rows to fetch
+2026-07-17 15:07:29,634 - INFO - RUN: no new price rows to fetch
+2026-07-17 15:07:29,994 - INFO - NEE: no new price rows to fetch
+2026-07-17 15:07:30,259 - INFO - ARRY: no new price rows to fetch
+2026-07-17 15:07:30,512 - INFO - SHLS: no new price rows to fetch
+2026-07-17 15:07:31,926 - INFO - FSLR: no new financial rows to fetch
+2026-07-17 15:07:33,274 - INFO - ENPH: no new financial rows to fetch
+2026-07-17 15:07:34,659 - INFO - SEDG: no new financial rows to fetch
+2026-07-17 15:07:35,992 - INFO - RUN: no new financial rows to fetch
+2026-07-17 15:07:37,718 - INFO - NEE: no new financial rows to fetch
+2026-07-17 15:07:38,984 - INFO - ARRY: no new financial rows to fetch
+2026-07-17 15:07:40,225 - INFO - SHLS: no new financial rows to fetch
+2026-07-17 15:24:10,047 - INFO - FSLR: no new price rows to fetch
+2026-07-17 15:24:10,342 - INFO - ENPH: no new price rows to fetch
+2026-07-17 15:24:10,575 - INFO - SEDG: no new price rows to fetch
+2026-07-17 15:24:10,890 - INFO - RUN: no new price rows to fetch
+2026-07-17 15:24:11,176 - INFO - NEE: no new price rows to fetch
+2026-07-17 15:24:11,524 - INFO - ARRY: no new price rows to fetch
+2026-07-17 15:24:11,809 - INFO - SHLS: no new price rows to fetch
+2026-07-17 15:24:12,926 - INFO - FSLR: no new financial rows to fetch
+2026-07-17 15:24:14,199 - INFO - ENPH: no new financial rows to fetch
+2026-07-17 15:24:15,401 - INFO - SEDG: no new financial rows to fetch
+2026-07-17 15:24:16,672 - INFO - RUN: no new financial rows to fetch
+2026-07-17 15:24:18,092 - INFO - NEE: no new financial rows to fetch
+2026-07-17 15:24:19,310 - INFO - ARRY: no new financial rows to fetch
+2026-07-17 15:24:20,620 - INFO - SHLS: no new financial rows to fetch
+2026-07-17 15:28:19,649 - INFO - FSLR: no new price rows to fetch
+2026-07-17 15:28:19,891 - INFO - ENPH: no new price rows to fetch
+2026-07-17 15:28:20,156 - INFO - SEDG: no new price rows to fetch
+2026-07-17 15:28:20,430 - INFO - RUN: no new price rows to fetch
+2026-07-17 15:28:21,721 - INFO - NEE: no new price rows to fetch
+2026-07-17 15:28:22,059 - INFO - ARRY: no new price rows to fetch
+2026-07-17 15:28:22,324 - INFO - SHLS: no new price rows to fetch
+2026-07-17 15:28:23,931 - INFO - FSLR: no new financial rows to fetch
+2026-07-17 15:28:25,402 - INFO - ENPH: no new financial rows to fetch
+2026-07-17 15:28:26,864 - INFO - SEDG: no new financial rows to fetch
+2026-07-17 15:28:28,228 - INFO - RUN: no new financial rows to fetch
+2026-07-17 15:28:29,946 - INFO - NEE: no new financial rows to fetch
+2026-07-17 15:28:31,377 - INFO - ARRY: no new financial rows to fetch
+2026-07-17 15:28:32,842 - INFO - SHLS: no new financial rows to fetch
+2026-07-17 15:54:05,947 - INFO - FSLR: no new price rows to fetch
+2026-07-17 15:54:06,207 - INFO - ENPH: no new price rows to fetch
+2026-07-17 15:54:06,468 - INFO - SEDG: no new price rows to fetch
+2026-07-17 15:54:06,699 - INFO - RUN: no new price rows to fetch
+2026-07-17 15:54:07,008 - INFO - NEE: no new price rows to fetch
+2026-07-17 15:54:07,264 - INFO - ARRY: no new price rows to fetch
+2026-07-17 15:54:07,511 - INFO - SHLS: no new price rows to fetch
+2026-07-17 15:54:08,653 - INFO - FSLR: no new financial rows to fetch
+2026-07-17 15:54:09,983 - INFO - ENPH: no new financial rows to fetch
+2026-07-17 15:54:11,352 - INFO - SEDG: no new financial rows to fetch
+2026-07-17 15:54:12,630 - INFO - RUN: no new financial rows to fetch
+2026-07-17 15:54:13,893 - INFO - NEE: no new financial rows to fetch
+2026-07-17 15:54:15,137 - INFO - ARRY: no new financial rows to fetch
+2026-07-17 15:54:16,271 - INFO - SHLS: no new financial rows to fetch
+2026-07-17 16:00:02,410 - INFO - FSLR: no new price rows to fetch
+2026-07-17 16:00:02,633 - INFO - ENPH: no new price rows to fetch
+2026-07-17 16:00:02,849 - INFO - SEDG: no new price rows to fetch
+2026-07-17 16:00:03,116 - INFO - RUN: no new price rows to fetch
+2026-07-17 16:00:03,435 - INFO - NEE: no new price rows to fetch
+2026-07-17 16:00:03,647 - INFO - ARRY: no new price rows to fetch
+2026-07-17 16:00:03,868 - INFO - SHLS: no new price rows to fetch
+2026-07-17 16:00:05,115 - INFO - FSLR: no new financial rows to fetch
+2026-07-17 16:00:06,533 - INFO - ENPH: no new financial rows to fetch
+2026-07-17 16:00:07,854 - INFO - SEDG: no new financial rows to fetch
+2026-07-17 16:00:09,529 - INFO - RUN: no new financial rows to fetch
+2026-07-17 16:00:11,096 - INFO - NEE: no new financial rows to fetch
+2026-07-17 16:00:12,515 - INFO - ARRY: no new financial rows to fetch
+2026-07-17 16:00:13,778 - INFO - SHLS: no new financial rows to fetch
+2026-07-18 16:00:10,900 - INFO - FSLR: fetched 1 new price rows
+2026-07-18 16:00:11,247 - INFO - ENPH: fetched 1 new price rows
+2026-07-18 16:00:11,678 - INFO - SEDG: fetched 1 new price rows
+2026-07-18 16:00:11,899 - INFO - RUN: fetched 1 new price rows
+2026-07-18 16:00:12,204 - INFO - NEE: fetched 1 new price rows
+2026-07-18 16:00:12,458 - INFO - ARRY: fetched 1 new price rows
+2026-07-18 16:00:12,712 - INFO - SHLS: fetched 1 new price rows
+2026-07-18 16:00:13,800 - INFO - FSLR: no new financial rows to fetch
+2026-07-18 16:00:15,055 - INFO - ENPH: no new financial rows to fetch
+2026-07-18 16:00:16,282 - INFO - SEDG: no new financial rows to fetch
+2026-07-18 16:00:17,567 - INFO - RUN: no new financial rows to fetch
+2026-07-18 16:00:18,824 - INFO - NEE: no new financial rows to fetch
+2026-07-18 16:00:19,944 - INFO - ARRY: no new financial rows to fetch
+2026-07-18 16:00:21,082 - INFO - SHLS: no new financial rows to fetch
+2026-07-19 16:00:11,121 - INFO - FSLR: fetched 1 new price rows
+2026-07-19 16:00:11,368 - INFO - ENPH: fetched 1 new price rows
+2026-07-19 16:00:11,649 - INFO - SEDG: fetched 1 new price rows
+2026-07-19 16:00:11,951 - INFO - RUN: fetched 1 new price rows
+2026-07-19 16:00:12,265 - INFO - NEE: fetched 1 new price rows
+2026-07-19 16:00:12,542 - INFO - ARRY: fetched 1 new price rows
+2026-07-19 16:00:12,849 - INFO - SHLS: fetched 1 new price rows
+2026-07-19 16:00:14,665 - INFO - FSLR: no new financial rows to fetch
+2026-07-19 16:00:16,261 - INFO - ENPH: no new financial rows to fetch
+2026-07-19 16:00:18,479 - INFO - SEDG: no new financial rows to fetch
+2026-07-19 16:00:20,056 - INFO - RUN: no new financial rows to fetch
+2026-07-19 16:00:21,954 - INFO - NEE: no new financial rows to fetch
+2026-07-19 16:00:23,653 - INFO - ARRY: no new financial rows to fetch
+2026-07-19 16:00:24,989 - INFO - SHLS: no new financial rows to fetch
+2026-07-20 10:10:47,032 - INFO - FSLR: no new price rows to fetch
+2026-07-20 10:10:47,305 - INFO - ENPH: no new price rows to fetch
+2026-07-20 10:10:47,518 - INFO - SEDG: no new price rows to fetch
+2026-07-20 10:10:47,790 - INFO - RUN: no new price rows to fetch
+2026-07-20 10:10:48,105 - INFO - NEE: no new price rows to fetch
+2026-07-20 10:10:48,335 - INFO - ARRY: no new price rows to fetch
+2026-07-20 10:10:48,585 - INFO - SHLS: no new price rows to fetch
+2026-07-20 10:10:49,727 - INFO - FSLR: no new financial rows to fetch
+2026-07-20 10:10:50,933 - INFO - ENPH: no new financial rows to fetch
+2026-07-20 10:10:52,110 - INFO - SEDG: no new financial rows to fetch
+2026-07-20 10:10:53,264 - INFO - RUN: no new financial rows to fetch
+2026-07-20 10:10:54,462 - INFO - NEE: no new financial rows to fetch
+2026-07-20 10:10:55,559 - INFO - ARRY: no new financial rows to fetch
+2026-07-20 10:10:56,638 - INFO - SHLS: no new financial rows to fetch
+2026-07-20 16:00:03,595 - INFO - FSLR: no new price rows to fetch
+2026-07-20 16:00:03,883 - INFO - ENPH: no new price rows to fetch
+2026-07-20 16:00:04,159 - INFO - SEDG: no new price rows to fetch
+2026-07-20 16:00:04,436 - INFO - RUN: no new price rows to fetch
+2026-07-20 16:00:04,755 - INFO - NEE: no new price rows to fetch
+2026-07-20 16:00:05,030 - INFO - ARRY: no new price rows to fetch
+2026-07-20 16:00:05,245 - INFO - SHLS: no new price rows to fetch
+2026-07-20 16:00:06,517 - INFO - FSLR: no new financial rows to fetch
+2026-07-20 16:00:07,854 - INFO - ENPH: no new financial rows to fetch
+2026-07-20 16:00:09,214 - INFO - SEDG: no new financial rows to fetch
+2026-07-20 16:00:10,484 - INFO - RUN: no new financial rows to fetch
+2026-07-20 16:00:11,722 - INFO - NEE: no new financial rows to fetch
+2026-07-20 16:00:12,932 - INFO - ARRY: no new financial rows to fetch
+2026-07-20 16:00:14,107 - INFO - SHLS: no new financial rows to fetch
+2026-07-21 16:00:11,793 - INFO - FSLR: fetched 1 new price rows
+2026-07-21 16:00:12,254 - INFO - ENPH: fetched 1 new price rows
+2026-07-21 16:00:12,502 - INFO - SEDG: fetched 1 new price rows
+2026-07-21 16:00:12,873 - INFO - RUN: fetched 1 new price rows
+2026-07-21 16:00:13,223 - INFO - NEE: fetched 1 new price rows
+2026-07-21 16:00:13,521 - INFO - ARRY: fetched 1 new price rows
+2026-07-21 16:00:13,820 - INFO - SHLS: fetched 1 new price rows
+2026-07-21 16:00:15,029 - INFO - FSLR: no new financial rows to fetch
+2026-07-21 16:00:16,396 - INFO - ENPH: no new financial rows to fetch
+2026-07-21 16:00:17,724 - INFO - SEDG: no new financial rows to fetch
+2026-07-21 16:00:19,124 - INFO - RUN: no new financial rows to fetch
+2026-07-21 16:00:20,466 - INFO - NEE: no new financial rows to fetch
+2026-07-21 16:00:21,632 - INFO - ARRY: no new financial rows to fetch
+2026-07-21 16:00:22,866 - INFO - SHLS: no new financial rows to fetch
+2026-07-22 16:00:10,007 - INFO - FSLR: fetched 1 new price rows
+2026-07-22 16:00:10,308 - INFO - ENPH: fetched 1 new price rows
+2026-07-22 16:00:10,554 - INFO - SEDG: fetched 1 new price rows
+2026-07-22 16:00:10,811 - INFO - RUN: fetched 1 new price rows
+2026-07-22 16:00:11,128 - INFO - NEE: fetched 1 new price rows
+2026-07-22 16:00:11,354 - INFO - ARRY: fetched 1 new price rows
+2026-07-22 16:00:11,642 - INFO - SHLS: fetched 1 new price rows
+2026-07-22 16:00:13,026 - INFO - FSLR: no new financial rows to fetch
+2026-07-22 16:00:14,256 - INFO - ENPH: no new financial rows to fetch
+2026-07-22 16:00:15,806 - INFO - SEDG: no new financial rows to fetch
+2026-07-22 16:00:17,083 - INFO - RUN: no new financial rows to fetch
+2026-07-22 16:00:18,410 - INFO - NEE: no new financial rows to fetch
+2026-07-22 16:00:19,652 - INFO - ARRY: no new financial rows to fetch
+2026-07-22 16:00:20,913 - INFO - SHLS: no new financial rows to fetch
+2026-07-23 16:00:09,497 - INFO - FSLR: fetched 1 new price rows
+2026-07-23 16:00:09,831 - INFO - ENPH: fetched 1 new price rows
+2026-07-23 16:00:10,066 - INFO - SEDG: fetched 1 new price rows
+2026-07-23 16:00:10,310 - INFO - RUN: fetched 1 new price rows
+2026-07-23 16:00:10,638 - INFO - NEE: fetched 1 new price rows
+2026-07-23 16:00:10,923 - INFO - ARRY: fetched 1 new price rows
+2026-07-23 16:00:11,209 - INFO - SHLS: fetched 1 new price rows
+2026-07-23 16:00:12,253 - INFO - FSLR: no new financial rows to fetch
+2026-07-23 16:00:13,623 - INFO - ENPH: no new financial rows to fetch
+2026-07-23 16:00:15,317 - INFO - SEDG: no new financial rows to fetch
+2026-07-23 16:00:16,449 - INFO - RUN: no new financial rows to fetch
+2026-07-23 16:00:17,596 - INFO - NEE: no new financial rows to fetch
+2026-07-23 16:00:18,658 - INFO - ARRY: no new financial rows to fetch
+2026-07-23 16:00:19,800 - INFO - SHLS: no new financial rows to fetch
+2026-07-24 16:00:10,420 - INFO - FSLR: fetched 1 new price rows
+2026-07-24 16:00:10,768 - INFO - ENPH: fetched 1 new price rows
+2026-07-24 16:00:11,116 - INFO - SEDG: fetched 1 new price rows
+2026-07-24 16:00:11,629 - INFO - RUN: fetched 1 new price rows
+2026-07-24 16:00:11,879 - INFO - NEE: fetched 1 new price rows
+2026-07-24 16:00:12,055 - INFO - ARRY: fetched 1 new price rows
+2026-07-24 16:00:12,242 - INFO - SHLS: fetched 1 new price rows
+2026-07-24 16:00:13,210 - INFO - FSLR: no new financial rows to fetch
+2026-07-24 16:00:14,503 - INFO - ENPH: no new financial rows to fetch
+2026-07-24 16:00:16,581 - INFO - SEDG: no new financial rows to fetch
+2026-07-24 16:00:17,865 - INFO - RUN: no new financial rows to fetch
+2026-07-24 16:00:18,949 - INFO - NEE: no new financial rows to fetch
+2026-07-24 16:00:20,121 - INFO - ARRY: no new financial rows to fetch
+2026-07-24 16:00:21,250 - INFO - SHLS: no new financial rows to fetch
+2026-07-26 16:00:09,773 - INFO - FSLR: fetched 1 new price rows
+2026-07-26 16:00:10,019 - INFO - ENPH: fetched 1 new price rows
+2026-07-26 16:00:10,217 - INFO - SEDG: fetched 1 new price rows
+2026-07-26 16:00:10,392 - INFO - RUN: fetched 1 new price rows
+2026-07-26 16:00:10,630 - INFO - NEE: fetched 1 new price rows
+2026-07-26 16:00:10,793 - INFO - ARRY: fetched 1 new price rows
+2026-07-26 16:00:11,028 - INFO - SHLS: fetched 1 new price rows
+2026-07-26 16:00:12,391 - INFO - FSLR: no new financial rows to fetch
+2026-07-26 16:00:13,686 - INFO - ENPH: no new financial rows to fetch
+2026-07-26 16:00:15,105 - INFO - SEDG: no new financial rows to fetch
+2026-07-26 16:00:16,477 - INFO - RUN: no new financial rows to fetch
+2026-07-26 16:00:17,635 - INFO - NEE: no new financial rows to fetch
+2026-07-26 16:00:18,830 - INFO - ARRY: no new financial rows to fetch
+2026-07-26 16:00:19,982 - INFO - SHLS: no new financial rows to fetch
+2026-07-27 16:00:09,887 - INFO - FSLR: no new price rows to fetch
+2026-07-27 16:00:10,085 - INFO - ENPH: no new price rows to fetch
+2026-07-27 16:00:10,250 - INFO - SEDG: no new price rows to fetch
+2026-07-27 16:00:10,434 - INFO - RUN: no new price rows to fetch
+2026-07-27 16:00:10,673 - INFO - NEE: no new price rows to fetch
+2026-07-27 16:00:10,838 - INFO - ARRY: no new price rows to fetch
+2026-07-27 16:00:11,034 - INFO - SHLS: no new price rows to fetch
+2026-07-27 16:00:12,013 - INFO - FSLR: no new financial rows to fetch
+2026-07-27 16:00:13,279 - INFO - ENPH: no new financial rows to fetch
+2026-07-27 16:00:14,607 - INFO - SEDG: no new financial rows to fetch
+2026-07-27 16:00:15,902 - INFO - RUN: no new financial rows to fetch
+2026-07-27 16:00:16,983 - INFO - NEE: no new financial rows to fetch
+2026-07-27 16:00:18,009 - INFO - ARRY: no new financial rows to fetch
+2026-07-27 16:00:19,223 - INFO - SHLS: no new financial rows to fetch
+2026-07-28 16:00:11,059 - INFO - FSLR: fetched 1 new price rows
+2026-07-28 16:00:11,305 - INFO - ENPH: fetched 1 new price rows
+2026-07-28 16:00:11,478 - INFO - SEDG: fetched 1 new price rows
+2026-07-28 16:00:11,662 - INFO - RUN: fetched 1 new price rows
+2026-07-28 16:00:11,940 - INFO - NEE: fetched 1 new price rows
+2026-07-28 16:00:12,123 - INFO - ARRY: fetched 1 new price rows
+2026-07-28 16:00:12,317 - INFO - SHLS: fetched 1 new price rows
+2026-07-28 16:00:13,488 - INFO - FSLR: no new financial rows to fetch
+2026-07-28 16:00:14,921 - INFO - ENPH: no new financial rows to fetch
+2026-07-28 16:00:16,319 - INFO - SEDG: no new financial rows to fetch
+2026-07-28 16:00:17,709 - INFO - RUN: no new financial rows to fetch
+2026-07-28 16:00:18,952 - INFO - NEE: no new financial rows to fetch
+2026-07-28 16:00:20,303 - INFO - ARRY: no new financial rows to fetch
+2026-07-28 16:00:21,494 - INFO - SHLS: no new financial rows to fetch
+2026-07-29 16:00:10,721 - INFO - FSLR: fetched 1 new price rows
+2026-07-29 16:00:10,918 - INFO - ENPH: fetched 1 new price rows
+2026-07-29 16:00:11,107 - INFO - SEDG: fetched 1 new price rows
+2026-07-29 16:00:11,283 - INFO - RUN: fetched 1 new price rows
+2026-07-29 16:00:11,534 - INFO - NEE: fetched 1 new price rows
+2026-07-29 16:00:11,711 - INFO - ARRY: fetched 1 new price rows
+2026-07-29 16:00:11,887 - INFO - SHLS: fetched 1 new price rows
+2026-07-29 16:00:13,131 - INFO - FSLR: no new financial rows to fetch
+2026-07-29 16:00:14,639 - INFO - ENPH: no new financial rows to fetch
+2026-07-29 16:00:16,138 - INFO - SEDG: no new financial rows to fetch
+2026-07-29 16:00:17,657 - INFO - RUN: no new financial rows to fetch
+2026-07-29 16:00:19,179 - INFO - NEE: no new financial rows to fetch
+2026-07-29 16:00:20,572 - INFO - ARRY: no new financial rows to fetch
+2026-07-29 16:00:21,939 - INFO - SHLS: no new financial rows to fetch
+2026-08-03 16:00:10,086 - INFO - FSLR: fetched 3 new price rows
+2026-08-03 16:00:10,426 - INFO - ENPH: fetched 3 new price rows
+2026-08-03 16:00:10,816 - INFO - SEDG: fetched 3 new price rows
+2026-08-03 16:00:11,092 - INFO - RUN: fetched 3 new price rows
+2026-08-03 16:00:11,321 - INFO - NEE: fetched 3 new price rows
+2026-08-03 16:00:11,507 - INFO - ARRY: fetched 3 new price rows
+2026-08-03 16:00:11,703 - INFO - SHLS: fetched 3 new price rows
+2026-08-03 16:00:13,139 - INFO - FSLR: no new financial rows to fetch
+2026-08-03 16:00:14,243 - INFO - ENPH: no new financial rows to fetch
+2026-08-03 16:00:15,368 - INFO - SEDG: no new financial rows to fetch
+2026-08-03 16:00:16,671 - INFO - RUN: no new financial rows to fetch
+2026-08-03 16:00:17,856 - INFO - NEE: no new financial rows to fetch
+2026-08-03 16:00:18,862 - INFO - ARRY: no new financial rows to fetch
+2026-08-03 16:00:19,940 - INFO - SHLS: no new financial rows to fetch
+2026-08-04 16:00:10,887 - INFO - FSLR: fetched 1 new price rows
+2026-08-04 16:00:11,216 - INFO - ENPH: fetched 1 new price rows
+2026-08-04 16:00:11,412 - INFO - SEDG: fetched 1 new price rows
+2026-08-04 16:00:11,755 - INFO - RUN: fetched 1 new price rows
+2026-08-04 16:00:12,035 - INFO - NEE: fetched 1 new price rows
+2026-08-04 16:00:12,241 - INFO - ARRY: fetched 1 new price rows
+2026-08-04 16:00:12,427 - INFO - SHLS: fetched 1 new price rows
+2026-08-04 16:00:13,399 - INFO - FSLR: no new financial rows to fetch
+2026-08-04 16:00:14,844 - INFO - ENPH: no new financial rows to fetch
+2026-08-04 16:00:16,325 - INFO - SEDG: no new financial rows to fetch
+2026-08-04 16:00:17,563 - INFO - RUN: no new financial rows to fetch
+2026-08-04 16:00:18,685 - INFO - NEE: no new financial rows to fetch
+2026-08-04 16:00:19,811 - INFO - ARRY: no new financial rows to fetch
+2026-08-04 16:00:21,145 - INFO - SHLS: no new financial rows to fetch
+2026-08-05 16:00:09,198 - INFO - FSLR: fetched 1 new price rows
+2026-08-05 16:00:09,424 - INFO - ENPH: fetched 1 new price rows
+2026-08-05 16:00:09,600 - INFO - SEDG: fetched 1 new price rows
+2026-08-05 16:00:09,857 - INFO - RUN: fetched 1 new price rows
+2026-08-05 16:00:10,092 - INFO - NEE: fetched 1 new price rows
+2026-08-05 16:00:10,266 - INFO - ARRY: fetched 1 new price rows
+2026-08-05 16:00:10,460 - INFO - SHLS: fetched 1 new price rows
+2026-08-05 16:00:11,887 - INFO - FSLR: no new financial rows to fetch
+2026-08-05 16:00:13,707 - INFO - ENPH: no new financial rows to fetch
+2026-08-05 16:00:14,913 - INFO - SEDG: no new financial rows to fetch
+2026-08-05 16:00:16,198 - INFO - RUN: no new financial rows to fetch
+2026-08-05 16:00:17,388 - INFO - NEE: no new financial rows to fetch
+2026-08-05 16:00:18,641 - INFO - ARRY: no new financial rows to fetch
+2026-08-05 16:00:19,812 - INFO - SHLS: no new financial rows to fetch
+2026-08-06 16:00:09,267 - INFO - FSLR: fetched 1 new price rows
+2026-08-06 16:00:09,443 - INFO - ENPH: fetched 1 new price rows
+2026-08-06 16:00:09,645 - INFO - SEDG: fetched 1 new price rows
+2026-08-06 16:00:09,886 - INFO - RUN: fetched 1 new price rows
+2026-08-06 16:00:10,134 - INFO - NEE: fetched 1 new price rows
+2026-08-06 16:00:11,340 - INFO - ARRY: fetched 1 new price rows
+2026-08-06 16:00:11,580 - INFO - SHLS: fetched 1 new price rows
+2026-08-06 16:00:12,800 - INFO - FSLR: no new financial rows to fetch
+2026-08-06 16:00:14,215 - INFO - ENPH: no new financial rows to fetch
+2026-08-06 16:00:15,419 - INFO - SEDG: no new financial rows to fetch
+2026-08-06 16:00:16,580 - INFO - RUN: no new financial rows to fetch
+2026-08-06 16:00:17,741 - INFO - NEE: no new financial rows to fetch
+2026-08-06 16:00:19,105 - INFO - ARRY: no new financial rows to fetch
+2026-08-06 16:00:20,223 - INFO - SHLS: no new financial rows to fetch
+2026-08-10 16:00:09,473 - INFO - FSLR: fetched 2 new price rows
+2026-08-10 16:00:09,651 - INFO - ENPH: fetched 2 new price rows
+2026-08-10 16:00:09,859 - INFO - SEDG: fetched 2 new price rows
+2026-08-10 16:00:10,037 - INFO - RUN: fetched 2 new price rows
+2026-08-10 16:00:10,416 - INFO - NEE: fetched 2 new price rows
+2026-08-10 16:00:10,590 - INFO - ARRY: fetched 2 new price rows
+2026-08-10 16:00:10,763 - INFO - SHLS: fetched 2 new price rows
+2026-08-10 16:00:11,809 - INFO - FSLR: no new financial rows to fetch
+2026-08-10 16:00:13,229 - INFO - ENPH: no new financial rows to fetch
+2026-08-10 16:00:14,466 - INFO - SEDG: no new financial rows to fetch
+2026-08-10 16:00:15,705 - INFO - RUN: no new financial rows to fetch
+2026-08-10 16:00:16,777 - INFO - NEE: no new financial rows to fetch
+2026-08-10 16:00:17,829 - INFO - ARRY: no new financial rows to fetch
+2026-08-10 16:00:18,995 - INFO - SHLS: no new financial rows to fetch
+2026-08-11 16:00:08,890 - INFO - FSLR: fetched 1 new price rows
+2026-08-11 16:00:09,085 - INFO - ENPH: fetched 1 new price rows
+2026-08-11 16:00:09,446 - INFO - SEDG: fetched 1 new price rows
+2026-08-11 16:00:09,639 - INFO - RUN: fetched 1 new price rows
+2026-08-11 16:00:09,894 - INFO - NEE: fetched 1 new price rows
+2026-08-11 16:00:10,087 - INFO - ARRY: fetched 1 new price rows
+2026-08-11 16:00:10,262 - INFO - SHLS: fetched 1 new price rows
+2026-08-11 16:00:11,388 - INFO - FSLR: no new financial rows to fetch
+2026-08-11 16:00:12,696 - INFO - ENPH: no new financial rows to fetch
+2026-08-11 16:00:13,771 - INFO - SEDG: no new financial rows to fetch
+2026-08-11 16:00:14,941 - INFO - RUN: no new financial rows to fetch
+2026-08-11 16:00:16,078 - INFO - NEE: no new financial rows to fetch
+2026-08-11 16:00:17,234 - INFO - ARRY: no new financial rows to fetch
+2026-08-11 16:00:18,265 - INFO - SHLS: no new financial rows to fetch
+2026-08-14 11:33:54,239 - INFO - FSLR: fetched 3 new price rows
+2026-08-14 11:33:54,510 - INFO - ENPH: fetched 3 new price rows
+2026-08-14 11:33:54,747 - INFO - SEDG: fetched 3 new price rows
+2026-08-14 11:33:54,931 - INFO - RUN: fetched 3 new price rows
+2026-08-14 11:33:55,147 - INFO - NEE: fetched 3 new price rows
+2026-08-14 11:33:55,324 - INFO - ARRY: fetched 3 new price rows
+2026-08-14 11:33:55,521 - INFO - SHLS: fetched 2 new price rows
+2026-08-14 11:33:56,671 - INFO - FSLR: no new financial rows to fetch
+2026-08-14 11:33:57,758 - INFO - ENPH: no new financial rows to fetch
+2026-08-14 11:33:59,257 - INFO - SEDG: no new financial rows to fetch
+2026-08-14 11:34:00,592 - INFO - RUN: no new financial rows to fetch
+2026-08-14 11:34:01,870 - INFO - NEE: no new financial rows to fetch
+2026-08-14 11:34:03,197 - INFO - ARRY: no new financial rows to fetch
+2026-08-14 11:34:04,287 - INFO - SHLS: no new financial rows to fetch
+2026-08-15 16:00:07,460 - INFO - FSLR: no new price rows to fetch
+2026-08-15 16:00:07,490 - INFO - ENPH: no new price rows to fetch
+2026-08-15 16:00:07,517 - INFO - SEDG: no new price rows to fetch
+2026-08-15 16:00:07,535 - INFO - RUN: no new price rows to fetch
+2026-08-15 16:00:07,563 - INFO - NEE: no new price rows to fetch
+2026-08-15 16:00:07,580 - INFO - ARRY: no new price rows to fetch
+2026-08-15 16:00:07,597 - INFO - SHLS: no new price rows to fetch
+2026-08-15 16:00:07,601 - ERROR - FSLR: financials fetch failed - HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /files/company_tickers.json (Caused by NameResolutionError("HTTPSConnection(host='www.sec.gov', port=443): Failed to resolve 'www.sec.gov' ([Errno 11001] getaddrinfo failed)"))
+2026-08-15 16:00:07,854 - ERROR - ENPH: financials fetch failed - HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /files/company_tickers.json (Caused by NameResolutionError("HTTPSConnection(host='www.sec.gov', port=443): Failed to resolve 'www.sec.gov' ([Errno 11001] getaddrinfo failed)"))
+2026-08-15 16:00:08,107 - ERROR - SEDG: financials fetch failed - HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /files/company_tickers.json (Caused by NameResolutionError("HTTPSConnection(host='www.sec.gov', port=443): Failed to resolve 'www.sec.gov' ([Errno 11001] getaddrinfo failed)"))
+2026-08-15 16:00:08,363 - ERROR - RUN: financials fetch failed - HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /files/company_tickers.json (Caused by NameResolutionError("HTTPSConnection(host='www.sec.gov', port=443): Failed to resolve 'www.sec.gov' ([Errno 11001] getaddrinfo failed)"))
+2026-08-15 16:00:08,615 - ERROR - NEE: financials fetch failed - HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /files/company_tickers.json (Caused by NameResolutionError("HTTPSConnection(host='www.sec.gov', port=443): Failed to resolve 'www.sec.gov' ([Errno 11001] getaddrinfo failed)"))
+2026-08-15 16:00:08,868 - ERROR - ARRY: financials fetch failed - HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /files/company_tickers.json (Caused by NameResolutionError("HTTPSConnection(host='www.sec.gov', port=443): Failed to resolve 'www.sec.gov' ([Errno 11001] getaddrinfo failed)"))
+2026-08-15 16:00:09,121 - ERROR - SHLS: financials fetch failed - HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /files/company_tickers.json (Caused by NameResolutionError("HTTPSConnection(host='www.sec.gov', port=443): Failed to resolve 'www.sec.gov' ([Errno 11001] getaddrinfo failed)"))
